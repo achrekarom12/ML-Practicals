@@ -7,3 +7,4 @@ Batch: D<br>
 #### Practicals Done:
 1. Linear Regression
 2. Logistic Regression
+3. Decision Tree Induction
