@@ -4,7 +4,8 @@ Name: Om Achrekar <br>
 Roll No.: 57<br>
 Batch: D<br>
 
-#### Practicals Done:
-1. Linear Regression
-2. Logistic Regression
-3. Decision Tree Induction
+| No. | Name of Experiment |
+| --- | ----- |
+| 1   | Linear Regression |
+| 2   | Logistic Regression |
+| 3   | Decision Tree Induction |
